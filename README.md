@@ -82,5 +82,3 @@ The results confirmed that Cowrie successfully recorded the simulated SSH sessio
 I successfully deployed Cowrie, generated simulated SSH activity, captured the resulting logs, and documented the findings.
 
 The project provided practical experience with Linux, SSH, security logging, and basic incident analysis.
-
-A possible future improvement would be to integrate the honeypot logs with a SIEM platform to automate alert generation and investigate suspicious activity across multiple sources.
